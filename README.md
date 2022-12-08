@@ -1,5 +1,6 @@
 # Programming_Foundations
-This is the first course from Become a Programmer: Foundations in LinkedIn Learning Platform
+This is the first course from Become a Programmer: Foundations in LinkedIn Learning Platform.
+
 [![100%](https://camo.githubusercontent.com/19454507992f53e762b7f47301b50250d3bf4e69c0c7d9a32d4ff6a239f58b5a/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f3f7469746c653d446f6e65)](https://camo.githubusercontent.com/19454507992f53e762b7f47301b50250d3bf4e69c0c7d9a32d4ff6a239f58b5a/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f3f7469746c653d446f6e65)
 
 ### - Course details
